@@ -1,0 +1,9 @@
+defaults:
+  - _self_
+  - params:
+type: 'pure_pursuit'  # 'mpc' / 'pure_pursuit' / 'apf'
+vgain: [1.0]  #0.6
+tlad: 0.82461887897713965
+n_next_points: 150
+skip_next_points: 5
+vmax: None

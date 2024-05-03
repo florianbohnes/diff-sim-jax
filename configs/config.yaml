@@ -1,0 +1,12 @@
+# Standard Config
+defaults:
+  - sim: sim
+  - maps: maps
+  - planner: planner
+  - _self_
+# Run settings
+async_env: true
+render: true
+wandb: true
+eval_n_eps: 1
+seed: 1

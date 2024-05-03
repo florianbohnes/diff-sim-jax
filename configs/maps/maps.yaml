@@ -1,0 +1,16 @@
+maps_train:
+  [
+    'Melbourne',
+  #  'Catalunya',
+  # 'Hockenheim'
+  ]
+maps_test: []
+map_path: './maps/'
+map_ext: '.png'
+wpt_delim: ';'
+wpt_rowskip: 3
+wpt_xind: 1
+wpt_yind: 2
+wpt_thind: 3
+wpt_vind: 5
+wpt_kappa: 4
