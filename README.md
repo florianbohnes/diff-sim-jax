@@ -20,6 +20,8 @@ to simulate dynamics grows rapidly. An increasing amount of computational resour
 taken up by that. There is an evident demand for simulation environments that are scalable
 and computationally efficient
 
+This is a port of the [F1TENTH gym environment](https://github.com/f1tenth/f1tenth_gym) to [JAX](https://github.com/google/jax)
+
 ## Install 
 pip install jax  
 pip install numpy   
