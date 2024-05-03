@@ -21,16 +21,16 @@ taken up by that. There is an evident demand for simulation environments that ar
 and computationally efficient
 
 ## Install 
-pip install jax 
-pip install numpy 
-pip install matplotlib
-pip install hydra-core
-pip install tqdm
-pip install gymnasium
-pip install numba
-pip install scipy
-pip install pyglet==1.5.0
-pip install -e jax_simulator/
+pip install jax  
+pip install numpy   
+pip install matplotlib  
+pip install hydra-core  
+pip install tqdm  
+pip install gymnasium  
+pip install numba  
+pip install scipy  
+pip install pyglet==1.5.0  
+pip install -e jax_simulator/  
 
 
 ## License
